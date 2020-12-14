@@ -8,13 +8,13 @@
 
 >### A multiple pages app built for OnlineJudge. [Demo](https://qduoj.com)
 
-## Features
+## 특징
 
-+ Webpack3 multiple pages with bundle size optimization
-+ Easy use simditor & Nice codemirror editor
-+ Amazing charting and visualization(echarts)
-+ User-friendly operation
-+ Quite beautiful：)
++ 웹팩3(Webpack3)를 활용한 다중 페이지
++ 쉽게 사용할 수 있는 코드 에디터
++ E-Charts를 활용한 시각화 모듈
++ 사용자 친화적인 명령어 기능
+
 
 ## Get Started
 
